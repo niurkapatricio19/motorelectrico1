@@ -1,0 +1,111 @@
+body{text-align:center;
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJrmTu6Q-NKuJlzjd69e9_K9qAkrB6KsQmUA&usqp=CAU");
+	font-size:20px;
+	font-family:times new roman; 
+	text-align:left;
+
+}
+
+ header{
+ 	   background:url("https://thumbs.dreamstime.com/b/teste-padr%C3%A3o-sem-emenda-com-elementos-da-f%C3%ADsica-69080823.jpg");
+      text-align:center;
+      width:100%;
+      background:cover;
+      color:white;
+      }
+
+
+    #foto1{
+    margin:40px 0px 0px 0px;
+    border:7px solid skyblue;
+    border-color:brown;
+    border-radius:20px;
+    width:300px;
+    height:200px;
+    }
+
+   
+  	 #content{
+     background-color:beige;
+     width:60%;
+     height:3745px;
+     margin:0 auto;
+     color:black;
+          }
+
+
+ #transparent{
+ 	width:50%;
+    height:3650px;
+    margin:0 auto;
+    text-align:left;
+           }
+
+
+  h1{
+     color:brown;
+     text-align:center;
+     padding:10px;
+  	}
+
+ p{
+ 	text-align:left;
+ }
+
+ 
+ h2,h3,h4,h5{
+    padding:5px;
+    font-size:30px;
+    color:black;
+    text-align:left;
+     text-decoration: underline;
+ }
+
+
+ #foto2{
+        border:7px white;
+        border-color:skyblue;
+        border-radius:10px;
+        width:100%;
+        height:250px;
+        float:center;
+     }
+
+#foto3{
+        border:7px white;
+        border-color:skyblue;
+        border-radius:10px;
+        width:100%;
+        height:250px;
+        float:center;
+       }
+
+
+ @media only screen (max-width:380px){
+
+ 		 #content{
+        
+        width:100%;
+        height:4000px;
+         margin:0 auto;
+        
+        color:black;
+          }
+
+ #transparent{
+ 	width:95%;
+    height:4000px;
+    margin:0 auto;
+    text-align:left;}
+
+         h2,h3,h4,h5{
+       padding:1px;
+    	font-size:20px;
+    	color:black;
+    	text-align:left;
+    	 text-decoration: underline;
+    	}
+ 	
+
+ }
+
